@@ -1,4 +1,4 @@
 # college-demo
-This my  repository
+This my  repository.
 <br>
 Iam checking changes
